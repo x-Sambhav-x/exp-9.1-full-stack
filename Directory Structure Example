@@ -1,0 +1,6 @@
+project-root/
+ ├── Dockerfile
+ ├── package.json
+ ├── package-lock.json
+ ├── src/
+ ├── public/
